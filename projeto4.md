@@ -5,3 +5,4 @@
 | Quinn | nota |
 | Sasa | nota |
 | Mingkwan | nota |
+| Monty | pts |
